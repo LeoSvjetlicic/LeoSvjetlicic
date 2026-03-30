@@ -11,8 +11,7 @@
 <table border="20">
   <tr>
     <td style="background-color: transparent;">
-      - Software engineering student at FERIT<br>
-      - Android developer
+      - Software developer
     </td>
     <td style="background-color: transparent;">
       <a href="https://github.com/LeoSvjetlicic/github-readme-stats">
